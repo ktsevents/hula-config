@@ -1,0 +1,15 @@
+{
+  "videasy_servers": ["myflixerzupcloud", "cdn", "1movies"],
+  "videasy_decrypt_url": "https://enc-dec.app/api/dec-videasy",
+  "whvx_base_url": "https://api.whvx.net",
+  "disabled_providers": [],
+  "domains": {
+    "xprime": "xprime.su",
+    "rivestream": "vidrock.net",
+    "embedsu": "embed.su",
+    "flicky": "player.vidzee.wtf"
+  },
+  "keys": {
+    "vidsrc_rc4": "Bx0IPAQjGHwFIyowBSMMMQQI"
+  }
+}
